@@ -18,5 +18,3 @@ newline
 
 | ew | qw | 12sd |
 
-| ew | qw | 12sd123123 |
-
