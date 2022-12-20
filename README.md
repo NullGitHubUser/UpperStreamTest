@@ -21,5 +21,3 @@ newline
 | ew | qw | 12sd123123 |
 
 | ew | qw | newnew |
-
-| ew | qw | newnew |
