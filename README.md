@@ -9,3 +9,5 @@ newline
 123asdasd
 
 | ewe | qwe |
+
+| ewe | qwe |
